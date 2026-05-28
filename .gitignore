@@ -1,0 +1,4 @@
+/.metadata/
+
+.gemini/
+gha-creds-*.json
